@@ -1,4 +1,4 @@
 {
-  "presets": ["react-app"],
+  "presets": ["react-app", "es2015"],
   "plugins": ["macros", "syntax-dynamic-import"]
 }

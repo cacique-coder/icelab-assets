@@ -4,7 +4,7 @@
   "description": "Configuration and scripts for assets.",
   "repository": "icelab/icelab-assets",
   "engines": {
-    "node": ">=4"
+    "node": ">=18"
   },
   "bugs": {
     "url": "https://github.com/icelab/icelab-assets/issues"
